@@ -6,6 +6,7 @@ body{
     background: linear-gradient(rgb(98, 241, 153),lightseagreen);
     overflow: hidden;
     height: 80px;
+    border-bottom: 1px solid lightblue;
 }
 
 /* Header icon start */
