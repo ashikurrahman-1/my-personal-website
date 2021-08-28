@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+}
+
+/* Laptop size Start */
+
+@media only screen and (min-width:1200px){
+    .lifestyle .l-right{
+        width: 45%;
+    }
+}
+
+/* Laptop size End */
